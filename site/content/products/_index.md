@@ -1,13 +1,10 @@
 ---
-title: Our Coffee
+title: Our Cabinets
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/unsplash.cabinets01.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  GC Sourcing is a leading provider of high quality imported products and materials to the building industry at the lowest prices. We are committed to using our sourcing knowledge to create a competitive advantage for our customers.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -98,5 +95,3 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
-
